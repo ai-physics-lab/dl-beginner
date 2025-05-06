@@ -38,7 +38,7 @@ Tensorの勾配計算と、`optimizer.step()` によるパラメータ更新の�
 ### **1. Google Colab で開く**
 Colab 上で開いてそのまま実行できます。
 
-▶ **[Google Colab で開く](https://colab.research.google.com/github/ai-physics-lab/dl-beginner/blob/main/pytorch_intro/tensor_autograd.ipynb)**
+▶ **[Google Colab で開く](https://colab.research.google.com/github/ai-physics-lab/dl-beginner/blob/main/autograd_intro/tensor_autograd.ipynb)**
 
 ### **2. ローカル環境で実行**
 #### **必要なライブラリをインストール**
